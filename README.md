@@ -1,2 +1,2 @@
-# u2-html-nyelv-alapjai
+# Training360
 A HTML nyelv alapjai
